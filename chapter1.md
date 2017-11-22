@@ -1,6 +1,6 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
+title       : Introduction to Brain Newtork's with Python
+description : In this chapter we will get in touch with the Brain network that are freely available at human connectome project
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
